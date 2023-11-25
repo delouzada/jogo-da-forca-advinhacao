@@ -1,4 +1,4 @@
-import adivicao
+import advinhacao
 import forca
 
 def escolhe_jogo():
